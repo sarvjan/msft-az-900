@@ -1,4 +1,4 @@
-name: Associate Cloud Engineer PDF Generator
+name: PDF Generator
 
 on:
   workflow_dispatch:  # Allows manual triggering of the workflow
